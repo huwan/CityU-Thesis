@@ -1,2 +1,7 @@
 # CityU-Thesis
-LaTeX Thesis Template for research postgraduate students (MPhil., Ph.D &amp; professional doctorate) at City University of Hong Kong
+
+A collection of LaTeX thesis template for students at City University of Hong Kong.
+
+
+You can download the templates here:
+- [CityU_Thesis](https://github.com/huwan/CityU_Thesis): An XeLaTeX thesis template for research postgraduate (MPhil and PhD) and professional doctorate (PD) students at City University of Hong Kong.
